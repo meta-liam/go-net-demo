@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+*.local
+local.*
+package-lock.json
+/dist
+/coverage
+/lib
+logs
+*.log
+coverage.data
+*.exe
+go.sum
+build
